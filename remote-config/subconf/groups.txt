@@ -1,0 +1,12 @@
+Proxies`select`[]HK`[]SG`[]JP`[]US`[]TW`.*
+Apple`select`[]DIRECT`[]Proxies
+MicroSoft`select`[]DIRECT`[]Proxies
+Telegram`select`[]Proxies`[]HK`[]SG
+Netflix`select`[]Proxies`[]HK`[]SG`[]JP`[]US`[]TW`NF|Netflix|NETFLIX|原生|解锁
+Netease`select`[]DIRECT`[]Proxies`NeteaseUnblock|Netease|netease|网易|云音乐
+StreamingSE`select`[]DIRECT`[]Proxies`[]HK`[]TW
+HK`select`港|HK|(Hong Kong)
+SG`select`新|狮城|SG|Singapore
+TW`select`台|新北|彰化|TW|Taiwan
+JP`select`日((?!用).)+|东京|大阪|埼玉|JP|Japan
+US`select`美|洛杉矶|硅谷|达拉斯|费利蒙|凤凰城|芝加哥|圣何塞|西雅图|US|USA|America
